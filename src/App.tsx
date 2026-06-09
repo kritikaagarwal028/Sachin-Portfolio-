@@ -83,7 +83,7 @@ const PROJECTS: Project[] = [
   },
   {
     id: '4',
-    title: 'St. Wilfred School (2025-26)',
+    title: 'St. Wilfred Group (2025-Present)',
     category: 'Prospectus Design',
     description: 'Created a structured academic publication aligned with institutional branding, focusing on editorial flow.',
     image: 'https://i.ibb.co/fGVDLjn1/PHOTO-2026-06-05-17-47-27.jpg',
