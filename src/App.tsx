@@ -75,10 +75,10 @@ const PROJECTS: Project[] = [
   },
   {
     id: '3',
-    title: 'Shiv Trident Hospital, Jaipur',
+    title: 'Modern Diagnostic & Research Center, Jaipur',
     category: 'Branding Campaign',
     description: 'Designed healthcare awareness visuals focusing on clarity and trust to establish a reliable institutional identity.',
-    image: 'https://picsum.photos/seed/hospital-brand/1200/800?grayscale',
+    image: 'https://i.ibb.co/p6xtwDn3/PHOTO-2026-06-05-17-33-35-3.jpg',
     focusPoints: ['Institutional Branding', 'Information Design', 'Trust-focused Visuals']
   },
   {
@@ -86,7 +86,7 @@ const PROJECTS: Project[] = [
     title: 'St. Wilfred School (2025-26)',
     category: 'Prospectus Design',
     description: 'Created a structured academic publication aligned with institutional branding, focusing on editorial flow.',
-    image: 'https://picsum.photos/seed/school-prospectus/1200/800?grayscale',
+    image: 'https://i.ibb.co/fGVDLjn1/PHOTO-2026-06-05-17-47-27.jpg',
     focusPoints: ['Editorial Layout', 'Print Production', 'Typography Hierarchy']
   },
   {
@@ -94,7 +94,7 @@ const PROJECTS: Project[] = [
     title: 'Aayojan College of Architecture (2025-26)',
     category: 'Catalogue & Calendar',
     description: 'Designed clean editorial layouts with strong typography and hierarchy for architectural catalogues and calendars.',
-    image: 'https://picsum.photos/seed/architecture-catalogue/1200/800?grayscale',
+    image: 'https://i.ibb.co/sd6qfbFT/PHOTO-2026-06-05-17-47-26-2.jpg',
     focusPoints: ['Grid Systems', 'Catalogue Design', 'Institutional Communication']
   },
   {
@@ -102,7 +102,7 @@ const PROJECTS: Project[] = [
     title: 'Curry Leaf Café',
     category: 'Branding',
     description: 'Developed logo applications, menu design, and a cohesive café identity for a modern dining establishment.',
-    image: 'https://picsum.photos/seed/cafe-branding/1200/800',
+    image: 'https://i.ibb.co/6JX462jv/PHOTO-2026-06-05-17-47-26.jpg',
     focusPoints: ['Identity Design', 'Menu Layout', 'Print Collaterals']
   }
 ];
