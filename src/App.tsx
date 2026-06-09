@@ -62,7 +62,7 @@ const PROJECTS: Project[] = [
     title: 'Design India Interior Expo 2024',
     category: 'Design Lead',
     description: 'Led branding and large-scale marketing visuals across print and digital media for a premier interior design exhibition.',
-    image: 'https://picsum.photos/seed/interior-expo/1200/800?grayscale',
+    image: 'https://i.ibb.co/XftmS4mq/PHOTO-2026-06-05-17-33-36-6.jpg',
     focusPoints: ['Large-scale Print Systems', 'Event Branding', 'Signage Design']
   },
   {
@@ -70,7 +70,7 @@ const PROJECTS: Project[] = [
     title: 'Contento Kids Carnival',
     category: 'Visual Identity',
     description: 'Developed complete event branding and promotional creatives for the 2023-2024 season.',
-    image: 'https://picsum.photos/seed/kids-carnival/1200/800',
+    image: 'https://i.ibb.co/QFGwR3Wy/PHOTO-2026-06-05-17-33-34.jpg',
     focusPoints: ['Visual Identity', 'Typography', 'Promotional Assets']
   },
   {
