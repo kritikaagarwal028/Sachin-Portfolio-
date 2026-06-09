@@ -62,7 +62,7 @@ const PROJECTS: Project[] = [
     title: 'Design India Interior Expo 2024',
     category: 'Design Lead',
     description: 'Led branding and large-scale marketing visuals across print and digital media for a premier interior design exhibition.',
-    image: 'https://i.ibb.co/XftmS4mq/PHOTO-2026-06-05-17-33-36-6.jpg',
+    image: 'https://i.ibb.co/DfRZkF64/Whats-App-Image-2026-06-09-at-1-01-37-PM-2.jpg',
     focusPoints: ['Large-scale Print Systems', 'Event Branding', 'Signage Design']
   },
   {
@@ -70,7 +70,7 @@ const PROJECTS: Project[] = [
     title: 'Contento Kids Carnival',
     category: 'Visual Identity',
     description: 'Developed complete event branding and promotional creatives for the 2023-2024 season.',
-    image: 'https://i.ibb.co/QFGwR3Wy/PHOTO-2026-06-05-17-33-34.jpg',
+    image: 'https://i.ibb.co/DfmwVVpY/Whats-App-Image-2026-06-09-at-1-01-37-PM.jpg',
     focusPoints: ['Visual Identity', 'Typography', 'Promotional Assets']
   },
   {
@@ -78,7 +78,7 @@ const PROJECTS: Project[] = [
     title: 'Modern Diagnostic & Research Center, Jaipur',
     category: 'Branding Campaign',
     description: 'Designed healthcare awareness visuals focusing on clarity and trust to establish a reliable institutional identity.',
-    image: 'https://i.ibb.co/p6xtwDn3/PHOTO-2026-06-05-17-33-35-3.jpg',
+    image: 'https://i.ibb.co/2bY11GL/Whats-App-Image-2026-06-09-at-1-01-37-PM-3.jpg',
     focusPoints: ['Institutional Branding', 'Information Design', 'Trust-focused Visuals']
   },
   {
@@ -86,7 +86,7 @@ const PROJECTS: Project[] = [
     title: 'St. Wilfred Group (2025-Present)',
     category: 'Prospectus Design',
     description: 'Created a structured academic publication aligned with institutional branding, focusing on editorial flow.',
-    image: 'https://i.ibb.co/fGVDLjn1/PHOTO-2026-06-05-17-47-27.jpg',
+    image: 'https://i.ibb.co/bM5850B6/Whats-App-Image-2026-06-09-at-1-01-37-PM-4.jpg',
     focusPoints: ['Editorial Layout', 'Print Production', 'Typography Hierarchy']
   },
   {
@@ -94,7 +94,7 @@ const PROJECTS: Project[] = [
     title: 'Aayojan College of Architecture (2025-26)',
     category: 'Catalogue & Calendar',
     description: 'Designed clean editorial layouts with strong typography and hierarchy for architectural catalogues and calendars.',
-    image: 'https://i.ibb.co/sd6qfbFT/PHOTO-2026-06-05-17-47-26-2.jpg',
+    image: 'https://i.ibb.co/YBZNy0sB/Whats-App-Image-2026-06-09-at-1-01-36-PM.jpg',
     focusPoints: ['Grid Systems', 'Catalogue Design', 'Institutional Communication']
   },
   {
@@ -102,7 +102,7 @@ const PROJECTS: Project[] = [
     title: 'Curry Leaf Café',
     category: 'Branding',
     description: 'Developed logo applications, menu design, and a cohesive café identity for a modern dining establishment.',
-    image: 'https://i.ibb.co/6JX462jv/PHOTO-2026-06-05-17-47-26.jpg',
+    image: 'https://i.ibb.co/HLMYHwGw/Whats-App-Image-2026-06-09-at-1-01-37-PM-1.jpg',
     focusPoints: ['Identity Design', 'Menu Layout', 'Print Collaterals']
   }
 ];
